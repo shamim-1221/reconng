@@ -1,0 +1,34 @@
+• OSINT
+Open-Source Intelligence (OSINT) reconnaissance involves using publicly available 
+resources to passively gather information on a target (a person or organization). To best 
+protect your organization, take the mindset of a threat actor.
+• Passive OSINT
+Passive Reconnaissance is one of the most important phases for successful hacking. Passive 
+Reconnaissance uses Open-Source Intelligence (OSINT) techniques to gather information 
+about the target. To explain, we attempt to gather information about the target without 
+interacting with it.
+• Recon-ng
+Recon-ng is a Web Reconnaissance tool written in Python. It has so many modules, database 
+interaction, built-in convenience functions, interactive help, and command completion, 
+Recon-ng provides a powerful environment in which open-source web-based reconnaissance 
+can be conducted, and we can gather all information
+Implementation:
+A. Using Recon-ng tool
+1. Open Kali Linux Virtual Machine. And Open terminal.
+2. Type Recon-ng to enter the console.
+3. Initially there are no modules installed. To install the modules,
+a. Discovery module
+b. Recon module
+c. Importing module
+d. Exploitation module
+e. Reporting module
+Now, the required modules are installed
+
+workspaces list
+create a new workspace
+marketplace install discovery
+options list
+options set SOURCE facebook.com
+options list
+run
+back
