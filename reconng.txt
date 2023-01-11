@@ -32,3 +32,6 @@ options set SOURCE facebook.com
 options list
 run
 back
+
+Generate a Report. We will install another module reporting/html and load the module to 
+generate a report in html file. Set the all options and Run the module
